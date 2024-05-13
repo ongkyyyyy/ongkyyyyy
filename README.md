@@ -12,7 +12,7 @@
  
  🔭 I’m currently studying at **Atma Jaya Yogyakarta University**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🔍 I’m currently focusing on **React**
 
  ⚡ Fun fact **Geralt of Rivia's iconic scar was earned during the Trial of the Grasses**
 
